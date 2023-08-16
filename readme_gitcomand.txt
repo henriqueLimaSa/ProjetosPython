@@ -21,3 +21,13 @@ Enviando meus projetos para o github
 	passo1	"(git remote add origin "adicionar o link http da sua pagina no git")"
 	passo2	"(git push --set-upstream origin master)" realize a confirmação na janela que abrirá
 			visualize seu codigo na pagina master
+
+
+Após a validação para adicionar um novo arquivo é nescessário
+
+git init 
+git add. or git add nome-do-arquivo
+git commit -m "Descrição do que foi alterado"
+git log 
+q <-- para sair do log 
+git push
