@@ -31,3 +31,6 @@ git commit -m "Descrição do que foi alterado"
 git log 
 q <-- para sair do log 
 git push
+
+
+git commit -m "Aprendendo a função filter"
